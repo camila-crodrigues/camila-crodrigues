@@ -12,9 +12,3 @@
   </div>
   
   <br>
-  
-  <div>
-    
-    ![Snake animation](https://github.com/camila-crodrigues/camila-crodrigues/blob/output/github-contribution-grid-snake.svg)
-    
-  </div>
